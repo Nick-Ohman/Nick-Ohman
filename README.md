@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on ... Story Squad, This is a team project that is my final steps to endorsment from Lambda School!
 
-- 🌱 I currecntly have experience in ... React | NodeJS | Python
+- 🌱 I currently have experience in ... React | NodeJS | Python
 
 - 💬 Ask me about ... Anything!
 
@@ -11,5 +11,5 @@
 
 - 😄 Pronouns: ... Cis gender male, he/him/his
 
-- 🥩 Fun fact about me: ... I love to smoke meat, I love working on my BBQ skills in my free time!
+- 🥩 Fun fact about me: ... I love to smoke meat, I enjoy working on my BBQ skills in my free time!
 
